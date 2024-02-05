@@ -32,5 +32,4 @@ public class Exercise3 {
         return animals;
     }
 
-    // patata
 }
